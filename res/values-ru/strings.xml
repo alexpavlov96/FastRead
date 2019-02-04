@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Быстрочтец</string>
+  <string name="dummy_button">To Site</string>
+  <string name="dummy_content">Print text here</string>
+  <string name="str_depth">Кафедра Прикладной Математики</string>
+  <string name="str_university1">Санкт-Петербургский Политехнический</string>
+  <string name="str_university2">университет Петра Великого</string>
+  <string name="str_toweb">На сайт</string>
+  <string name="str_start">Старт</string>
+  <string name="menu_textsize">Изменить размер текста</string>
+  <string name="menu_open">Открыть книгу</string>
+  <string name="menu_color">Изменить цвет текущего слова</string>
+  <string name="menu_back">Изменить фон</string>
+    <string name="title_color">Цвет</string>
+    <string name="title_background">Фон</string>
+    <string name="color_blue">синий</string>
+    <string name="color_red">красный</string>
+    <string name="color_black">черный</string>
+    <string name="color_gray">серый</string>
+    <string name="color_green">зеленый</string>
+    <string name="soft">Мягкий</string>
+    <string name="dark">Темный</string>
+    <string name="white">Прозрачный</string>
+  <string name="title_size">Размер текста</string>
+  <string name="smallSize">Мелкий</string>
+  <string name="mediumSize">Средний</string>
+  <string name="bigSize">Крупный</string>
+  <string name="play">читать</string>
+  <string name="stop">стоп</string>
+  <string name="isFolder"> - это папка</string>
+  <string name="chooseBook">Выберите книгу</string>
+  <string name="exit">Выход</string>
+  <string name="download">Загрузка...</string>
+  <string name="menu_orientation">Повернуть устройство</string>
+</resources>
